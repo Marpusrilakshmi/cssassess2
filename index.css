@@ -1,0 +1,99 @@
+.class{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.common{
+    background-color: black;
+    border: 5px solid red;
+    color: white;
+    margin: 20px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: x-large;
+}
+
+.class1{
+    
+        padding-top: 20px;
+        width: 374px;
+        border-radius: 33px;
+        height: 84px;
+        padding-left: 10px;
+        padding-bottom: 22px;
+    
+}
+.class2{
+    padding-top: 30px;
+    width: 350px;
+    padding-left: 67px;
+    height: 32px;
+    border-radius: 31px;
+}
+
+.class3{
+    width: 290px;
+    padding-left: 41px;
+    height: 153px;
+    border-radius: 33px;
+}
+.class4 {
+    border: 3px solid brown;
+    background-color: seagreen;
+    padding-top: 81px;
+    width: 300px;
+    height: 207px;
+    border-radius: 50%;
+    padding-bottom: 19px;
+    text-align: center;
+    margin-left: 58px;
+    margin-top: 222px;
+}
+.row2{
+    display: flex;
+    justify-content: start;
+}
+.class5 {
+    border: 5px dashed red;
+    text-align: center;
+    color: red;
+    width: 310px;
+    margin-left: 371px;
+    height: 655px;
+    line-height: 30px;
+    margin-top: 84px;
+}
+.class6 {
+    background-color: black;
+    border: 5px solid red;
+    text-align: center;
+    color: white;
+    width: 304px;
+    padding: 10px 30px;
+    border-radius: 19px;
+    margin-left: 40%;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-top: 38px;
+}
+.class7 {
+    text-align: center;
+    background-color: aqua;
+    border: 2px solid grey;
+    height: 300px;
+    width: 343px;
+    border-radius: 39px;
+    margin-top: 60px;
+}
+.items{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+body{
+    background-image: url(./download.jpeg);
+background-repeat: no-repeat; 
+ background-size:cover;
+ background-attachment: fixed;
+}
